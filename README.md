@@ -7,11 +7,11 @@ Interacting with computers has been my passion ever since I was a young kid.
 since I downloaded Softwares and games but mostly Clone Script.
 When I edited , designed and translated I fell  ❤️ in code and websites. 
 Since then I am constantly learning and developing my skills in this field. 👨‍💻
-Recently I graduated a FullStack bootcamp at JohnByrce training college. At The bootcamp I had a great time, i've learned a lot and improved my skills. Today I'm still learning new stuff each day and I’d be willing to take up employment in development , Back-end / Front-end or anything else,I'm always passionate and motivated to learn and experince new stuff.
+Recently I graduated a FullStack bootcamp at JohnByrce training college.
 <details>
 <summary> 📈 My GitHub Stats</summary>
 
- [![Moshe's github stats](https://github-readme-stats.vercel.app/api?username=Moshe-Davila)](https://github.com/Moshe-Davila) 
+ [![Moshe's github stats](https://github-readme-stats.vercel.app/api?username=Moshe-Davila)](https://github.com/moshe15) 
 
 </details>
    <a href="https://github.com/sponsors/Moshe-Davila"><img align="left" width="270" height="290" src="https://image.freepik.com/free-vector/young-freelancer-programmer-coding-with-laptop-vector-geek-character-isolated-white-background_53562-11083.jpg"></a>
