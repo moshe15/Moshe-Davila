@@ -18,12 +18,6 @@ Recently I graduated a FullStack bootcamp at JohnByrce training college. At The 
 <h4 align="left"><samp>
 
 ### 📫 How to reach me:   
- </samp></h4>
-<a href="https://amit-rei.io"><img  alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/amit-reinich-bbb98b19b/"><img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-
-
 
 <a href= "https://www.linkedin.com/in/moshiko-davila-618718166/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
  <a href="mailto:moshedavila15@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
@@ -41,12 +35,9 @@ Recently I graduated a FullStack bootcamp at JohnByrce training college. At The 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="MySql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="scss"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 <br />
 <br />
